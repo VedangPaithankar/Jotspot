@@ -2,7 +2,7 @@
 
 JotSpot is a simple and user-friendly online note-taking tool that allows you to create, edit, and manage your notes conveniently.
 
-![JotSpot Screenshot](screenshot.png)
+![JotSpot Screenshot](image_2023-10-09_002848177.png)
 
 ## Features
 
